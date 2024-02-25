@@ -91,7 +91,7 @@ const About = () => {
           <p>
             <b>English</b>-Advanced<br></br>
             <b>Tamil</b>-Advanced<br></br>
-            <b>Telugu</b>-Native<br></br>
+            <b>Telugu</b>-Mother Tongue<br></br>
             <b>Hindi</b>-Basic<br></br>
           </p><br></br>
           <h1 className='AboutTextHeading' >Hobbies</h1>
