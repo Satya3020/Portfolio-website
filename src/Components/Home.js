@@ -30,7 +30,11 @@ const Home = () => {
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
           I have a solid foundation in <b>Python programming, Java Programming, MongoDB,
-          ReactJS and JavaScript, and Machine Learning </b>. I have a great learning experience
+          ReactJS and JavaScript, Spring Framework, Testing </b>. 
+          <br/>
+          Currently working as an <b>EDGE IT Analyst at DTCC </b>
+         <br/>
+          I also have a great learning experience
           as a <b>backend developer(Developed APIs using Spring tool Suite)</b> in my past internship at DTCC.
           <br /><br />
           What sets me apart is not only my technical skills but also my ability to collaborate effectively
@@ -69,6 +73,10 @@ const Home = () => {
         <Skills skill='Figma' />
         <Skills skill='Bootstrap'/>
         <Skills skill='Streamlit' />
+
+        <Skills skill='AWS'/>
+        <Skills skill='Selenium'/>
+        <Skills skill='ApacheKafka'/>
         
       </div>
     </div>

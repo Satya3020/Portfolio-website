@@ -5,10 +5,17 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
+
+    CBDP_Twitter_CloneDesc : "Cyber-bullying prevention and detection with multi-media analysis and three-stage prevention mechanism along with an auto-detection feature for cyberbullying terms to warn users prior to posting",
+    CBDP_Twitter_CloneGithub : "https://github.com/Kanishkumar-K/Twitter-clone-with-proactive-cyberbullying-detection",
+
+    Cyberbullying_DetectionPreventionDesc : "Cyber-bullying prevention and detection with multi-media analysis and three-stage prevention mechanism along with an auto-detection feature for cyberbullying terms to warn users prior to posting",
+    Cyberbullying_DetectionPreventionGithub : "https://github.com/Kanishkumar-K/Multi-modal-cyberbullying-detection-and-prevention/tree/branch1",
+
     Mobeaze_Ecommerce_websiteDesc : "A user-friendly e-commerce platform providing seamless shopping experiences, featuring secure authentication, a diverse product catalog, and efficient order management.",
     Mobeaze_Ecommerce_websiteGithub : "https://github.com/Satya3020/E-commerce-Mobile-shopping",
 
-    Chatbot_for_College_EnquiryDesc : "This Chatbot is an application designed specifically for the admission process at the National Economics University This chatbot serves as a virtual assistant, providing information and support to prospective students throughout their admission journey.",
+    Chatbot_for_College_EnquiryDesc : "This Chatbot is an application designed specifically for the admission process. It serves as a virtual assistant, providing information and support to prospective students throughout their admission journey.",
     Chatbot_for_College_EnquiryGithub : "https://github.com/Satya3020/Chatbot-for-College-Enquiry-process",
 
     Sentiment_analysis_of_GoldDesc:"Examining the sentiment expressed in news articles related to the gold market, traders and investors can gain valuable insights into market reactions, gauge overall sentiment, and make informed decisions.",
@@ -32,6 +39,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     Forex_CandlestickDesc:"Trade Analysis - Forex trade analysis using candlesticks for a day, week, month and trends",
     Forex_CandlestickGithub:"",
 
+    Kafka_Inorder_ProcessingDesc:"This application ensures in-order processing of data with enhanced accuracy and speed",
+    Kafka_Inorder_ProcessingGithub:"",
+
+    Budget_Tracking_Application:"App to track expenses, incomes and also set budgets for effective financial management",
+    Budget_Tracking_ApplicationGithub:"",
   }
 
   let show ='';
